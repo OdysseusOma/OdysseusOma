@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @OdysseusOma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in React Development
+- 🌱 I’m currently learning Java, ThreeJS
+- 💞️ I’m looking to collaborate on small to mid scale projects
+- 📫 How to reach me - adebayoomirin@gmail.com
 
 <h1 align="center">Hi 👋, I'm Omirin Adebayo</h1>
-<h3 align="center">A passionate Readt Engineer</h3>
+<h3 align="center">A passionate React Engineer</h3>
 
 <p>Hi, I'm Adebayo, I have more than 4 years of experience as a Full Stack Developer. I can assist you with creating pixel-perfect online applications and websites. In order to enhance user experience and your company, I develop responsive websites with all of my heart.
 Are you prepared to start a significant project? Together, let's employ agile approaches and make the best websites using effective practices! I'm completely available to you and will assist you in selecting the best option depending on your tastes and needs.
