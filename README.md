@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OdysseusOma
+- 👋 Hi, OdysseusOma present!!
 - 👀 I’m interested in React Development
 - 🌱 I’m currently learning Java, ThreeJS
 - 💞️ I’m looking to collaborate on small to mid scale projects
