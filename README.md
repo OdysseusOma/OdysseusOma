@@ -2,7 +2,7 @@
 
 ### Full Stack Developer · Mechanical Engineer · Content Writer
 
-I'm a multidisciplinary professional with 4+ years of experience in full stack development, a Master's in Mechanical Engineering, and a strong background in content writing and scriptwriting.
+I'm a multidisciplinary tech enthusiast with 6+ years of experience in full-stack development, a Master's in Mechanical Engineering (in view), and a strong background in content writing and scriptwriting.
 
 I build responsive, pixel-perfect web applications using modern JavaScript frameworks — and I bring the same precision and problem-solving mindset from engineering to every project I take on. Whether it's architecting a React app, writing technical content, or tackling complex engineering challenges, I care deeply about quality and clarity.
 
@@ -37,8 +37,8 @@ I build responsive, pixel-perfect web applications using modern JavaScript frame
 ### Currently
 
 - 🔧 Bridging engineering and software — building tools that solve real-world problems
-- 🌱 Learning Java and Three.js
-- ✍️ Writing content and scripts for clients across industries
+- 🌱 Learning Java and Rust
+- ✍️ WRITING
 - 💬 Open to collaborating on small to mid-scale projects
 
 ---
